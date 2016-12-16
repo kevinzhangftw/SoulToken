@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "292909263509",
+    "firebase_url": "https://soultoken-7ac0e.firebaseio.com",
+    "project_id": "soultoken-7ac0e",
+    "storage_bucket": "soultoken-7ac0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292909263509:android:366abf4f860a05b4",
+        "android_client_info": {
+          "package_name": "com.example.kevinzhang.soultoken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292909263509-0p514u020iou7357sim89q9qs625fmrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKgYzqYhB45vtXwfMPcL8W_tulMytEYM"
+        },
+        {
+          "current_key": "AIzaSyCOUBbANrl6cEiKbEbXjtbde0f2od5gM3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
